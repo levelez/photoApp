@@ -1,0 +1,12 @@
+{
+  "name": "forbes-pics",
+  "version": "1.0.0",
+  "description": "a simple pic fetching app using web components",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "open http://localhost:8080 && node server.js"
+  },
+  "author": "lvelez",
+  "license": "ISC"
+}
